@@ -1,0 +1,1 @@
+Geocoding is process of converting addresses (like 14 blanari bucuresti) into geographic coordinates (like latitude 37.423021 and longitude -122.083739) which you can use to place markers or position the map.Addionally, the service allows you to perform the converse operation (turning coordinates into addresses); this process is known as reverse geocoding.
